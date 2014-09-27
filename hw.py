@@ -4,3 +4,6 @@
 print 'hw'
 print 0
 
+for i in 'python':
+	print i
+
