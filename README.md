@@ -7,4 +7,5 @@ By Gabriel Cesar
 * python environment
 * css3
 * html5
+* PostgreSQL as database
 
