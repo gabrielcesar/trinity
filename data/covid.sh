@@ -17,12 +17,12 @@ python3 covid.py PB 0 1 0 0
 python3 covid.py PR 0 36 0 0
 python3 covid.py PE 0 31 0 0
 python3 covid.py PI 0 1 0 0
-python3 covid.py RJ 0 109 0 0
+python3 covid.py RJ 0 109 0 2
 python3 covid.py RN 0 1 0 0
 python3 covid.py RS 0 53 0 0
 python3 covid.py RO 0 1 0 0
 python3 covid.py RR 0 0 0 0
 python3 covid.py SC 0 40 0 0
-python3 covid.py SP 0 396 0 0
+python3 covid.py SP 0 396 0 9
 python3 covid.py SE 0 7 0 0
 python3 covid.py TO 0 1 0 0
