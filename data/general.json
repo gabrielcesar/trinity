@@ -1,1 +1,8 @@
-{"total_suspect": 0, "total_confirmed": 971, "total_recovered": 0, "total_death": 11}
+{
+    "total_suspect": 306, 
+    "total_confirmed": 1251, 
+    "total_recovered": 10, 
+    "total_death": 10,
+    "last_update_date": "21/03/2020",
+    "last_update_time": "09:30"
+}
